@@ -170,8 +170,5 @@ On the master node, check node status:
 ```bash
 kubectl get nodes -o wide
 ```
-
-
-
-<img width="1685" height="123" alt="image" src="https://github.com/user-attachments/assets/2053934f-ae29-4340-a8ca-175a3b814e7d" />
+<img width="1632" height="339" alt="Screenshot 2025-11-04 214624" src="https://github.com/user-attachments/assets/0956d61c-19c2-49d6-ad07-7ec9cd8e2bde" />
 
