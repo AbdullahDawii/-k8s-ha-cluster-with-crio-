@@ -139,7 +139,7 @@ sudo sysctl -p
 
 ## Step 8: Initialize Kubernetes Cluster (Master Node)
 ```bash
-kubeadm init --control-plane-endpoint "172.31.18.186:6443"  # to add first master node 
+kubeadm init --control-plane-endpoint "172.31.34.166:6443"  # to add first master node 
 kubeadm init phase upload-certs --upload-certs
 kubeadm token create --print-join-command --certificate-key <CERT_KEY> # done add master
 u can copy token to add worker also 
